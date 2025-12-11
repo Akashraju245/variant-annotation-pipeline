@@ -7,13 +7,12 @@ This is a simple variant annotation project for genetics research.
 variant-annotation-pipeline/
  ├── sample.vcf          # Input VCF file
  ├── annotate.py         # Python script
- ├── annotated_output.csv # Output CSV (generated)
- ├── README.md           # Project info
+ ├── annotated_output.csv # Output CSV
  └── requirements.txt    # Python dependencies
 
 #How to Run
 
-1. Install Python (>=3.8 recommended)
+1. Install Python
 2. Install dependencies:
 
 ```
