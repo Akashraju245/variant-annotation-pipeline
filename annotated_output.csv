@@ -1,0 +1,4 @@
+CHROM,POS,ID,REF,ALT,QUAL,FILTER,INFO,Variant_Type,Gene
+1       1234567 rs1234567       A       G       50      PASS    DP=100,,,,,,,,INDEL,GENE1
+1       7654321 .       T       C       99      PASS    DP=80,,,,,,,,INDEL,GENE2
+2       2222222 rs999999       G       A       60      PASS    DP=120,,,,,,,,INDEL,GENE3
