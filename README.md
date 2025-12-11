@@ -2,7 +2,7 @@ Variant Annotation Pipeline
 
 This is a simple variant annotation project for genetics research.
 
-## Project Structure
+#Project Structure
 
 variant-annotation-pipeline/
  ├── sample.vcf          # Input VCF file
@@ -11,7 +11,7 @@ variant-annotation-pipeline/
  ├── README.md           # Project info
  └── requirements.txt    # Python dependencies
 
-## How to Run
+#How to Run
 
 1. Install Python (>=3.8 recommended)
 2. Install dependencies:
