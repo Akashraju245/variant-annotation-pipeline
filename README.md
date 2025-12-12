@@ -1,5 +1,7 @@
 Variant Annotation Pipeline
 
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+
 This is a simple variant annotation project for genetics research.
 
 #Project Structure
